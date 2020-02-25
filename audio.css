@@ -1,0 +1,10 @@
+body, html {
+    background: #282831;
+    color: white;
+    height: 100vh;
+}
+
+canvas {
+    width: 100%;
+    height: max-content;
+}
